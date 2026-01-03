@@ -28,4 +28,7 @@ c7b9c91d-4c2e-4b0f-a55c-32bbacbf1453
 {5,0cc428ac-c25f-4d66-b0f9-a3bdb13b4f28,"Справочник.НематериальныеАктивы",3},
 {4,"_$Data$_.Update",13},
 {5,3db69e5c-00d0-4241-aec5-d5606a380ae7,"Документ.ВводВЭксплуатацию",4},
-{4,"_$Data$_.Post",14}
+{4,"_$Data$_.Post",14},
+{4,"_$Transaction$_.Rollback",15},
+{4,"_$Data$_.Unpost",16},
+{4,"_$PerformError$_",17}
