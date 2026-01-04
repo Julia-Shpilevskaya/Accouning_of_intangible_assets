@@ -31,4 +31,7 @@ c7b9c91d-4c2e-4b0f-a55c-32bbacbf1453
 {4,"_$Data$_.Post",14},
 {4,"_$Transaction$_.Rollback",15},
 {4,"_$Data$_.Unpost",16},
-{4,"_$PerformError$_",17}
+{4,"_$PerformError$_",17},
+{2,"DESKTOP-2A51NAS",2},
+{13,2,1},
+{5,c317c244-c9b3-486c-91bb-3d472ad2d979,"Документ.НачислениеАмортизации",5}
